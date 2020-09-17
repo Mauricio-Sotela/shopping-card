@@ -1,6 +1,6 @@
 {
-  "homepage": "http://Mauricio-Sotela.github.io/shopping_car",
-  "name": "loading-spinner",
+  "homepage": "http://Mauricio-Sotela.github.io/shopping-card",
+  "name": "shopping",
   "version": "1.0.0",
   "description": "Doing instagram in React",
   "main": "index.js",
